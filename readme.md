@@ -1,0 +1,1 @@
+This repository contains the program needed for tropical estimation to solve pair comparison problems
